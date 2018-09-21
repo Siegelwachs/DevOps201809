@@ -1,2 +1,3 @@
 # DevOps201809
-DevoOps Tutorium 201809-KT
+DevOps Tutorium 201809-KT
+Eduardo hat keine Ahnung
